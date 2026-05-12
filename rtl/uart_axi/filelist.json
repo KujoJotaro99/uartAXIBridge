@@ -1,0 +1,10 @@
+{
+    "top": "uart_axi",
+    "files":
+    ["uart_axi.sv",
+    "../../submodules/imports/dbg_bridge_fifo.sv",
+    "../../submodules/imports/dbg_bridge_uart.sv",
+    "../../submodules/imports/dbg_bridge.sv",
+    "../../submodules/imports/axi_ram.sv"
+    ]
+}
